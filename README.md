@@ -1,4 +1,3 @@
-# Explore-Data-Science-and-Machine-Learning-by-Python-Example
 ![image](https://user-images.githubusercontent.com/50360331/114026509-eedce300-9893-11eb-87bb-4f06c9529a42.png)
 ### Authored book entitled “Explore Data Science & Machine Learning by Python Example” comprises six chapters, starts from fundamental programming skills to case studies. 
 ### Chapter1 elevate the implementation skills of python programming language to work on real time requirements.
